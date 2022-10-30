@@ -13,10 +13,10 @@ See test_selenium_petfriends.py
 
 If you are using Chrome version 106, you can use chromedriver in a project.
 If you use another version chrome or another browser, you must:
-- change the path to the file './chromedriver.exe' to driver file path on your PC in `test_selenium_petfriends.py'.
+- change the path to the file __./chromedriver.exe__ to driver file path on your PC in __test_selenium_petfriends.py__.
 
 Or
 
-- put your driver in project root folder nearby 'chromedriver.exe'.
+- put your driver in project root folder nearby __chromedriver.exe__.
 
 Make sure that you run python scripts under administration rights.
