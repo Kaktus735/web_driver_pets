@@ -17,6 +17,6 @@ If you use another version chrome or another browser, you must:
 
 Or
 
-- put your driver in project root folder nearby __chromedriver.exe__.
+- put your driver in the project root folder nearby/instead __chromedriver.exe__.
 
 Make sure that you run python scripts under administration rights.
